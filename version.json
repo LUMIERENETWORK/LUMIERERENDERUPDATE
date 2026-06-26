@@ -1,5 +1,5 @@
 {
-    "version": "2.2.4",
+    "version": "2.2.5",
     "url": "https://github.com/LUMIERENETWORK/LUMIERERENDERUPDATE/releases/latest/download/LUMIERE_RENDER.zip",
-    "notes": "v2.2.4 — Story image khớp theo tên (không lẫn sang video khác); độ dài video bám đúng audio thật (fix file MP3 header sai báo dài quá); SRT Limit chỉ giới hạn lúc tạo phụ đề, video luôn render full; đổi thương hiệu LUMIERE RENDER."
+    "notes": "v2.2.5 — Sửa ảnh Speaker không hiện khi ảnh lớn hơn khung video (tự thu nhỏ vừa khung, giữ tỷ lệ, không cắt); cải thiện phụ đề chế độ trái/phải (chữ to hơn, mỗi dòng nhiều chữ hơn, căn giữa nửa khung trống cho cân đối)."
 }
