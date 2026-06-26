@@ -1,0 +1,5 @@
+{
+    "version": "2.2.4",
+    "url": "https://github.com/LUMIERENETWORK/LUMIERERENDERUPDATE/releases/latest/download/LUMIERE_RENDER.zip",
+    "notes": "v2.2.4 — Story image khớp theo tên (không lẫn sang video khác); độ dài video bám đúng audio thật (fix file MP3 header sai báo dài quá); SRT Limit chỉ giới hạn lúc tạo phụ đề, video luôn render full; đổi thương hiệu LUMIERE RENDER."
+}
