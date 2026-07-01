@@ -1,5 +1,5 @@
 {
-    "version": "2.2.5",
+    "version": "2.2.7",
     "url": "https://github.com/LUMIERENETWORK/LUMIERERENDERUPDATE/releases/latest/download/LUMIERE_RENDER.zip",
-    "notes": "v2.2.5 — Sửa ảnh Speaker không hiện khi ảnh lớn hơn khung video (tự thu nhỏ vừa khung, giữ tỷ lệ, không cắt); cải thiện phụ đề chế độ trái/phải (chữ to hơn, mỗi dòng nhiều chữ hơn, căn giữa nửa khung trống cho cân đối)."
+    "notes": "v2.2.7 — Live Log hiển thị tiến độ render theo thời gian thực; nút START chuyển trạng thái ĐANG RENDER khi chạy; chạy trên Edge/Chrome, không còn crash .NET; tự động cập nhật; không tự refresh khi idle."
 }
